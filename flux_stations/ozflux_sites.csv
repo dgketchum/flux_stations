@@ -1,0 +1,88 @@
+Name,Fluxnet,Landcover,Location,Latitude,Longitude,Group,Contact
+Alice Springs Mulga,AU-ASM,Semi-arid mulga (Acacia aneura) ecosystem,"Pine Hill cattle station, near Alice Springs, Northern Territory",-22.2828,133.2493,University of Technology Sydney,Anne Griebel
+Alpine Peatland,AU-APL,Alpine Sphagnum peatland,Bogong High Plains near Falls Creek in the Victorian Alpine National Parks,-36.8607,147.3208,Royal Melbourne Institute of Technology,Samantha Grover
+Boyagin,AU-Boy,Wandoo woodland (surrounding area dominated by broadacre farming),"Boyagin Nature Reserve 12km W of Pingelly, Western Australia",-32.4771,116.9386,University of Western Australia,Jason Beringer
+Calperum,AU-Cpr,Recovering Mallee woodland,"Calperum Station, 25km NW of Renmark, South Australia",-34.0027,140.5877,University of Adelaide,Wayne Meyer
+Cow Bay,AU-Cow,Complex mesophyll vine forest,"Daintree Discovery Centre at Cow Bay, 100km from Cairns, Qld",-16.238189,145.42715,James Cook University (Cairns) Daintree Discovery Centre,Michael Liddell
+Cumberland Plain,AU-Cum,Dry sclerophyll,Hawkesbury Valley in central New South Wales,-33.6152,150.7236,Western Sydney University,Elise Pendall
+Daly River Uncleared,AU-DaS,Woodland savanna,"Douglas River Daly River Esplanade Conservation area, approx. 60km south west of Pine Creek, Northern Territory",-14.1592,131.3881,University of Western Australia Charles Darwin University,"Jason Beringer, Lindsay Hutley"
+Dry River,AU-Dry,Open forest savanna,"approx. 89km south of Katherine, Northern Territory",-15.2588,132.3706,University of Western Australia Charles Darwin University,"Jason Beringer,
+Lindsay Hutley"
+Fletcherview Tropical Rangeland,Au-Fle,Semi-arid savanna,"90km SW of Townsvill,e Queensland",-19.8873,146.1891,James Cook University,Michael Liddell
+French Island,,Saltmarsh,"South west tip of Franch Island, Victoria",-38.3879,145.2783,Monash University,"Matthew Peck,
+Leigh Burgess,
+Ruth Reef"
+Gingin,AU-Gin,Coastal heath Banksia woodland,"Swan Coastal Plain 70km north of Perth, Western Australia",-31.3764,115.7139,Edith Cowan University,Richard Silberstein
+Great Western Woodlands,AU-GWW,"Temperate woodland, shrubland and mallee","Credo Station, 110km NNW of Kalgoorlie, WA",-30.1913,120.6541,CSIRO Environment,"Craig Macfarlane,
+Suzanne Prober"
+Howard Springs,AU-How,Tropical savanna (wet),"E of Darwin, NT",-12.4943,131.1523,"University of Western Australia
+
+Charles Darwin University","Jason Beringer,
+Lindsay Hutley"
+Kopuatai,NZ-Kop,Raised peat bog,lower Hauraki plains of the North Island,-37.388,175.554,University of Waikato,Dave Campbell
+Litchfield,AU-Lit,Tropical savanna,80 km south of Darwin,-13.179,130.7945,"University of Western Australia
+
+Charles Darwin University","Jason Beringer,
+Lindsay Hutley"
+Oxford,NZ-Oxf,Native vegetation regenerating in grassland,"NW edge of the Canterbury plains, NZ",-43.2619,172.2108,Manaaki Whenua - Landcare Research,John Hunt
+Ridgefield,AU-Rgf,Dryland agriculture,12km west Pingelly,-32.5061,116.9668,University of Western Australia,Jason Beringer
+Robson Creek,AU-Rob,Complex mesophyll vine forest,"approx. 30km northwest of Atherton, Queensland",-17.1175,145.6301,"James Cook University
+(Cairns)",Michael Liddell
+Samford,AU-Sam,Improved pasture (Paspalum dilatum),approx. 3km from Samford village and 20km west of Brisbane CBD in SE Queensland,-27.3881,152.8778,Queensland University of Technology,"Peter Grace, Michelle Gane"
+Scott Farm,NZ-Sco,Pasture,7km northeast of Hamilton on the North Island of New Zealand,-37.46,175.22,University of Waikato,"Dave Campbell,
+Louis Schipper"
+Silver Plains,AU-Sil,Grassy sedgeland,Interlaken on the Tasmanian central plateau,-42.15,147.13,University of Tasmania,Mark Hovenden
+Sturt Plains,AU-Stp,Low lying plain dominated by Mitchell Grass,"approx. 280km north of Tennant Creek, Northern Territory",-17.1507,133.3502,"University of Western Australia
+
+Charles Darwin University","Jason Beringer,
+Lindsay Hutley"
+Ti Tree East,AU-TTE,Grassy mulga woodland and Corymbia/Triodia savanna,"Pine Hill cattle station, Northern Territory",-22.287,133.64,University of Technology Sydney,Anne Griebel
+Tumbarumba,AU-Tum,Wet temperate sclerophyll eucalypt,"Near Tumbarumba, NSW",-35.6566,148.1517,University of Queensland,William Woodgate
+Warra,AU-Wrr,Eucalyptus obliqua forest,South western Tasmania,-43.095,146.6545,University of Tasmania,"Tim Wardlaw,
+Alison Phillips"
+Whroo,AU-Whr,Box woodland,"Approx. 45km south west of Shepparton, Vic.",-36.6732,145.0294,University of Western Australia,"Jason Beringer,
+Stefan Arndt"
+Wombat,AU-Wom,Dry sclerophyll eucalypt forest,"Wombat State Forest, 100km west of Melbourne, Vic.",-37.4222,144.0944,"University of Melbourne
+
+Monash University
+
+Department of Sustainability and Environment of Victoria","Stefan Arndt,
+Nina Hinko-Najera"
+Yanco,AU-Ync,"Topographically flat area, comprised of various soil types",Yanco region of New South Wales,-34.9893,146.2907,University of Western Australia,Jason Beringer
+Yarramundi,,Pasture (native and exotic herbaceous perennials),Hawkesbury Valley in central New South Wales &,-33.6135,150.7349,Western Sydney University,Elise Pendall
+Adelaide River,AU-Ade,Savanna,"approx. 10.5km south east of Bachelor, Northern Territory:",-13.0769,131.1178,"Monash University
+(Melbourne)
+
+Charles Darwin University","Jason Beringer,
+Lindsay Hutley"
+Arcturus,,Crop land (predominantly chickpeas or wheat) and grazed pasture (cattle),"48km southeast of Emerald, Queensland",-23.8587,148.4746,Geoscience Australia,"Andrew Feitz,
+Ivan Schroder,
+Mark Kitchen"
+Beacon Farm,NZ-BFm,"Intensive dairy farming, ryegrass (Lolium perenne) and clover (Trifolium repens L.)","Mid-Canterbury plains, South Island, NZ",-43.593,171.928,Manaaki Whenua - Landcare Research,"John Hunt,
+Johannes Laubach"
+Cape Tribulation,AU-Ctr,Tropical rainforest,"Cape Tribulation rainforest, 100km N of Cairns, Qld",-16.1056,145.447,"James Cook University
+(Cairns)",Michael Liddell
+Coleambally Irrigation Area (maize and wheat rotation),AU-Cm1,Irrigated crop land (maize and wheat rotation),Coleambally Irrigation Area (CIA) in south eastern New South Wales &,-34.7614,146.0151,Charles Sturt University,Camilla Vote
+Coleambally Irrigation Area (rice),AU-Cm2,Irrigated crop land (rice),Coleambally Irrigation Area (CIA) in south eastern New South Wales,-34.9252,145.8212,Charles Sturt University,Camilla Vote
+Collie,AU-Col,Wandoo woodland,10km SE of Collie Western Australia,-33.42,116.237,University of Western Australia,Jason Beringer
+Daly River Pasture,DaP,Tropical pasture,"62km south west of Pine Creek, Northern Territory",-14.0633,131.3181,"Monash University
+(Melbourne)
+
+Charles Darwin University","Jason Beringer,
+Lindsay Hutley"
+Dargo,AU-Drg,Sub-alpine grassland,North-East Victoria,-37.1334,147.171,University of Sydney,Bradley Evans
+Fogg Dam,AU-Fog,Seasonally flooded wetland,"6km east of Black Jungle, Northern Territory:",-12.5452,131.3072,"Monash University
+(Melbourne)
+
+Charles Darwin University","Jason Beringer,
+Lindsay Hutley"
+Gatum Pasture,,Grazing pasture (predominantly Phalaris aquatica L. and Trifolium subteraneum L.),"South western Victoria, approximately 260km west of Melbourne",-37.3903,141.9716,"Monash University
+
+La Trobe University","Edoardo Daly,
+Ian McHugh"
+Nimmo,AU-Nim,Sub-alpine grassland,Southern NSW,-36.2159,148.5525,University of Sydney,Bradley Evans
+Otway,AU-Otw,Pasture,"Narrinda South, Victoria",-38.5323,142.8168,CSIRO Marine and Atmospheric Research (Black Mountain),Mark Kitchen
+Riggs Creek,AU-Rig,Dryland agriculture,"approx. 40km south east of Shepparton, Victoria",-36.6499,145.576,University of Western Australia,Jason Beringer
+Virginia Park,AU-Vir,Tropical savanna (wet/dry),"40km NE of Charters Towers, Qld",-19.8833,146.5539,"CSIRO Marine and Atmospheric Research (Black Mountain, Townsville)",Mark Kitchen
+Wallaby Creek,AU-Wac,Wet temperate eucalypt forest,"Approx. 45km NE of Melbourne, Vic.",-37.429,145.1873,"Monash University
+(Melbourne)",Jason Beringer
