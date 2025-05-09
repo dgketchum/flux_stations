@@ -1,0 +1,752 @@
+{
+    "AR-Bal": {
+        "latitude": -37.7596,
+        "longitude": -58.3024,
+        "start_date": "2012-12-22",
+        "end_date": "2013-04-07"
+    },
+    "AR-CCa": {
+        "latitude": -35.621,
+        "longitude": -61.3181,
+        "start_date": "2012-10-19",
+        "end_date": null
+    },
+    "CA-DSM": {
+        "latitude": 49.0887,
+        "longitude": -122.8954,
+        "start_date": "2021-09-03",
+        "end_date": null
+    },
+    "CA-ER1": {
+        "latitude": 43.6405,
+        "longitude": -80.4123,
+        "start_date": "2015-06-17",
+        "end_date": null
+    },
+    "CA-MA1": {
+        "latitude": 50.1645,
+        "longitude": -97.8762,
+        "start_date": "2009-06-03",
+        "end_date": "2011-01-01"
+    },
+    "CA-MA3": {
+        "latitude": 50.1774,
+        "longitude": -97.8686,
+        "start_date": "2009-06-03",
+        "end_date": "2011-01-01"
+    },
+    "CA-TP1": {
+        "latitude": 42.6609,
+        "longitude": -80.5595,
+        "start_date": null,
+        "end_date": null
+    },
+    "CR-Fsc": {
+        "latitude": 10.4189,
+        "longitude": -85.4732,
+        "start_date": "2014-07-02",
+        "end_date": null
+    },
+    "PR-xLA": {
+        "latitude": 18.0212,
+        "longitude": -67.0769,
+        "start_date": "2018-05-30",
+        "end_date": null
+    },
+    "US-A32": {
+        "latitude": 36.8193,
+        "longitude": -97.8198,
+        "start_date": "2015-06-17",
+        "end_date": "2017-06-13"
+    },
+    "US-A37": {
+        "latitude": 36.3106,
+        "longitude": -97.928,
+        "start_date": "2019-10-22",
+        "end_date": null
+    },
+    "US-A74": {
+        "latitude": 36.8085,
+        "longitude": -97.5489,
+        "start_date": "2016-01-28",
+        "end_date": "2017-10-20"
+    },
+    "US-AMS": {
+        "latitude": 41.7018,
+        "longitude": -87.9963,
+        "start_date": "2021-05-24",
+        "end_date": null
+    },
+    "US-ARb": {
+        "latitude": 35.5497,
+        "longitude": -98.0402,
+        "start_date": null,
+        "end_date": null
+    },
+    "US-ARc": {
+        "latitude": 35.5465,
+        "longitude": -98.04,
+        "start_date": null,
+        "end_date": null
+    },
+    "US-ARM": {
+        "latitude": 36.6058,
+        "longitude": -97.4888,
+        "start_date": "2002-01-02",
+        "end_date": null
+    },
+    "US-ASL": {
+        "latitude": 36.9466,
+        "longitude": -120.1024,
+        "start_date": "2016-10-04",
+        "end_date": null
+    },
+    "US-ASM": {
+        "latitude": 36.1777,
+        "longitude": -120.2026,
+        "start_date": "2016-09-27",
+        "end_date": null
+    },
+    "US-Bi1": {
+        "latitude": 38.0992,
+        "longitude": -121.4993,
+        "start_date": "2018-07-12",
+        "end_date": null
+    },
+    "US-Bi2": {
+        "latitude": 38.1091,
+        "longitude": -121.5351,
+        "start_date": "2017-04-26",
+        "end_date": null
+    },
+    "US-Bo1": {
+        "latitude": 40.0062,
+        "longitude": -88.2904,
+        "start_date": null,
+        "end_date": null
+    },
+    "US-Bo2": {
+        "latitude": 40.009,
+        "longitude": -88.29,
+        "start_date": null,
+        "end_date": null
+    },
+    "US-CC2": {
+        "latitude": 44.1039,
+        "longitude": -89.6196,
+        "start_date": "2021-07-05",
+        "end_date": "2021-10-12"
+    },
+    "US-CF1": {
+        "latitude": 46.7815,
+        "longitude": -117.0821,
+        "start_date": "2017-05-11",
+        "end_date": null
+    },
+    "US-CF2": {
+        "latitude": 46.784,
+        "longitude": -117.0908,
+        "start_date": "2017-05-12",
+        "end_date": null
+    },
+    "US-CF3": {
+        "latitude": 46.7551,
+        "longitude": -117.1261,
+        "start_date": "2017-06-02",
+        "end_date": null
+    },
+    "US-CF4": {
+        "latitude": 46.7518,
+        "longitude": -117.1285,
+        "start_date": "2017-06-02",
+        "end_date": null
+    },
+    "US-CRT": {
+        "latitude": 41.6285,
+        "longitude": -83.3471,
+        "start_date": "2011-05-11",
+        "end_date": "2012-05-20"
+    },
+    "US-CS1": {
+        "latitude": 44.1031,
+        "longitude": -89.5379,
+        "start_date": "2018-05-18",
+        "end_date": "2019-04-25"
+    },
+    "US-CS3": {
+        "latitude": 44.1394,
+        "longitude": -89.5727,
+        "start_date": "2019-04-25",
+        "end_date": "2020-04-11"
+    },
+    "US-CS4": {
+        "latitude": 44.1597,
+        "longitude": -89.5475,
+        "start_date": "2020-04-11",
+        "end_date": "2021-05-06"
+    },
+    "US-CS5": {
+        "latitude": 44.1095,
+        "longitude": -89.5377,
+        "start_date": "2021-05-06",
+        "end_date": "2022-05-10"
+    },
+    "US-CS6": {
+        "latitude": 44.4297,
+        "longitude": -89.544,
+        "start_date": "2022-05-10",
+        "end_date": "2023-06-19"
+    },
+    "US-CS8": {
+        "latitude": 44.4338,
+        "longitude": -89.5364,
+        "start_date": "2023-06-19",
+        "end_date": "2023-08-31"
+    },
+    "US-DFC": {
+        "latitude": 43.3448,
+        "longitude": -89.7117,
+        "start_date": "2018-04-04",
+        "end_date": null
+    },
+    "US-DFK": {
+        "latitude": 43.3453,
+        "longitude": -89.7154,
+        "start_date": "2018-12-14",
+        "end_date": null
+    },
+    "US-Dia": {
+        "latitude": 37.6773,
+        "longitude": -121.5296,
+        "start_date": "2010-10-14",
+        "end_date": "2015-09-23"
+    },
+    "US-Dk1": {
+        "latitude": 35.9712,
+        "longitude": -79.0934,
+        "start_date": null,
+        "end_date": null
+    },
+    "US-Dmg": {
+        "latitude": 38.0015,
+        "longitude": -121.6691,
+        "start_date": "2021-09-02",
+        "end_date": null
+    },
+    "US-DS1": {
+        "latitude": 38.1335,
+        "longitude": -121.539,
+        "start_date": "2018-07-14",
+        "end_date": "2020-03-19"
+    },
+    "US-DS2": {
+        "latitude": 38.1375,
+        "longitude": -121.514,
+        "start_date": "2020-03-21",
+        "end_date": "2024-03-26"
+    },
+    "US-DS3": {
+        "latitude": 38.1235,
+        "longitude": -121.549,
+        "start_date": "2021-08-03",
+        "end_date": null
+    },
+    "US-HRA": {
+        "latitude": 34.5852,
+        "longitude": -91.7517,
+        "start_date": "2015-05-15",
+        "end_date": "2017-08-25"
+    },
+    "US-HRC": {
+        "latitude": 34.5888,
+        "longitude": -91.7517,
+        "start_date": "2015-04-17",
+        "end_date": null
+    },
+    "US-HWB": {
+        "latitude": 40.8608,
+        "longitude": -77.8488,
+        "start_date": "2015-07-16",
+        "end_date": "2018-08-24"
+    },
+    "US-IB1": {
+        "latitude": 41.8593,
+        "longitude": -88.2227,
+        "start_date": null,
+        "end_date": null
+    },
+    "US-INd": {
+        "latitude": 39.8645,
+        "longitude": -86.5005,
+        "start_date": "2017-08-11",
+        "end_date": "2018-11-06"
+    },
+    "US-INe": {
+        "latitude": 39.8632,
+        "longitude": -86.5083,
+        "start_date": "2017-09-17",
+        "end_date": "2019-12-29"
+    },
+    "US-INi": {
+        "latitude": 39.8167,
+        "longitude": -85.7005,
+        "start_date": "2019-04-22",
+        "end_date": "2022-05-08"
+    },
+    "US-INj": {
+        "latitude": 39.8766,
+        "longitude": -85.7066,
+        "start_date": "2020-05-22",
+        "end_date": null
+    },
+    "US-INn": {
+        "latitude": 39.9468,
+        "longitude": -86.788,
+        "start_date": "2019-01-01",
+        "end_date": "2021-06-13"
+    },
+    "US-INp": {
+        "latitude": 39.9477,
+        "longitude": -86.7821,
+        "start_date": "2021-01-09",
+        "end_date": "2021-04-09"
+    },
+    "US-KL1": {
+        "latitude": 42.4847,
+        "longitude": -85.4422,
+        "start_date": "2009-01-01",
+        "end_date": null
+    },
+    "US-KL2": {
+        "latitude": 42.4768,
+        "longitude": -85.4468,
+        "start_date": "2009-01-01",
+        "end_date": null
+    },
+    "US-KL3": {
+        "latitude": 42.4735,
+        "longitude": -85.4473,
+        "start_date": "2009-01-01",
+        "end_date": null
+    },
+    "US-KLS": {
+        "latitude": 38.7745,
+        "longitude": -97.5684,
+        "start_date": null,
+        "end_date": null
+    },
+    "US-KM1": {
+        "latitude": 42.4376,
+        "longitude": -85.3287,
+        "start_date": "2009-01-01",
+        "end_date": null
+    },
+    "US-KM2": {
+        "latitude": 42.4441,
+        "longitude": -85.3098,
+        "start_date": "2009-01-01",
+        "end_date": null
+    },
+    "US-KM3": {
+        "latitude": 42.4464,
+        "longitude": -85.3105,
+        "start_date": "2009-01-01",
+        "end_date": null
+    },
+    "US-Lin": {
+        "latitude": 36.3566,
+        "longitude": -119.0922,
+        "start_date": null,
+        "end_date": null
+    },
+    "US-Los": {
+        "latitude": 46.0827,
+        "longitude": -89.9792,
+        "start_date": null,
+        "end_date": null
+    },
+    "US-MC1": {
+        "latitude": 48.1873,
+        "longitude": -114.1548,
+        "start_date": "2015-05-18",
+        "end_date": "2015-09-03"
+    },
+    "US-MC2": {
+        "latitude": 48.1802,
+        "longitude": -114.2051,
+        "start_date": "2016-05-10",
+        "end_date": "2016-09-30"
+    },
+    "US-MH1": {
+        "latitude": 45.9206,
+        "longitude": -108.2414,
+        "start_date": "2015-05-01",
+        "end_date": "2015-08-11"
+    },
+    "US-MH2": {
+        "latitude": 45.9699,
+        "longitude": -108.1978,
+        "start_date": "2016-03-24",
+        "end_date": "2016-08-12"
+    },
+    "US-Mi1": {
+        "latitude": 41.7727,
+        "longitude": -80.6313,
+        "start_date": "2015-06-24",
+        "end_date": "2019-12-29"
+    },
+    "US-Mi2": {
+        "latitude": 41.5479,
+        "longitude": -80.855,
+        "start_date": "2015-06-24",
+        "end_date": "2017-04-30"
+    },
+    "US-Mi3": {
+        "latitude": 41.8222,
+        "longitude": -80.637,
+        "start_date": "2015-06-24",
+        "end_date": "2019-12-27"
+    },
+    "US-Mj1": {
+        "latitude": 46.9948,
+        "longitude": -109.6137,
+        "start_date": "2013-01-01",
+        "end_date": "2014-12-31"
+    },
+    "US-MN1": {
+        "latitude": 45.6168,
+        "longitude": -96.1269,
+        "start_date": "2017-06-09",
+        "end_date": null
+    },
+    "US-MN2": {
+        "latitude": 45.627,
+        "longitude": -96.1271,
+        "start_date": "2017-06-09",
+        "end_date": null
+    },
+    "US-MN3": {
+        "latitude": 45.6091,
+        "longitude": -96.1265,
+        "start_date": "2020-04-27",
+        "end_date": null
+    },
+    "US-Mo1": {
+        "latitude": 39.2298,
+        "longitude": -92.1167,
+        "start_date": "2015-06-02",
+        "end_date": null
+    },
+    "US-Mo2": {
+        "latitude": 38.9488,
+        "longitude": -91.9945,
+        "start_date": "2017-08-15",
+        "end_date": null
+    },
+    "US-Mo3": {
+        "latitude": 39.2322,
+        "longitude": -92.1493,
+        "start_date": "2016-05-31",
+        "end_date": null
+    },
+    "US-MVW": {
+        "latitude": 47.6729,
+        "longitude": -111.4889,
+        "start_date": "2017-05-24",
+        "end_date": "2017-09-28"
+    },
+    "US-Myb": {
+        "latitude": 38.0499,
+        "longitude": -121.765,
+        "start_date": "2010-10-14",
+        "end_date": null
+    },
+    "US-Ne1": {
+        "latitude": 41.1651,
+        "longitude": -96.4766,
+        "start_date": null,
+        "end_date": null
+    },
+    "US-Ne2": {
+        "latitude": 41.1649,
+        "longitude": -96.4701,
+        "start_date": null,
+        "end_date": null
+    },
+    "US-Ne3": {
+        "latitude": 41.1797,
+        "longitude": -96.4397,
+        "start_date": null,
+        "end_date": null
+    },
+    "US-OPE": {
+        "latitude": 39.0293,
+        "longitude": -76.8457,
+        "start_date": "2016-01-01",
+        "end_date": null
+    },
+    "US-OWC": {
+        "latitude": 41.3795,
+        "longitude": -82.5125,
+        "start_date": null,
+        "end_date": null
+    },
+    "US-PFd": {
+        "latitude": 45.9689,
+        "longitude": -90.301,
+        "start_date": "2019-06-24",
+        "end_date": "2019-10-18"
+    },
+    "US-PSH": {
+        "latitude": 36.2347,
+        "longitude": -119.9247,
+        "start_date": "2016-10-14",
+        "end_date": null
+    },
+    "US-PSL": {
+        "latitude": 36.8276,
+        "longitude": -120.1397,
+        "start_date": "2016-08-06",
+        "end_date": null
+    },
+    "US-RC1": {
+        "latitude": 46.7837,
+        "longitude": -117.0777,
+        "start_date": "2011-08-20",
+        "end_date": "2016-10-02"
+    },
+    "US-RC2": {
+        "latitude": 46.7776,
+        "longitude": -117.0807,
+        "start_date": "2015-04-01",
+        "end_date": "2015-10-02"
+    },
+    "US-RC3": {
+        "latitude": 46.991,
+        "longitude": -118.598,
+        "start_date": "2011-10-18",
+        "end_date": "2016-10-02"
+    },
+    "US-RC4": {
+        "latitude": 46.758,
+        "longitude": -116.949,
+        "start_date": "2012-07-11",
+        "end_date": "2016-10-02"
+    },
+    "US-RC5": {
+        "latitude": 47.01,
+        "longitude": -119.248,
+        "start_date": "2013-06-13",
+        "end_date": "2015-10-02"
+    },
+    "US-RGA": {
+        "latitude": 34.4159,
+        "longitude": -91.6733,
+        "start_date": "2021-05-25",
+        "end_date": null
+    },
+    "US-RGB": {
+        "latitude": 39.5782,
+        "longitude": -121.8579,
+        "start_date": "2021-03-25",
+        "end_date": "2024-05-31"
+    },
+    "US-RGF": {
+        "latitude": 37.6995,
+        "longitude": -121.1369,
+        "start_date": "2023-03-08",
+        "end_date": null
+    },
+    "US-RGo": {
+        "latitude": 39.6805,
+        "longitude": -122.0026,
+        "start_date": "2021-07-19",
+        "end_date": "2025-01-06"
+    },
+    "US-RGW": {
+        "latitude": 33.6216,
+        "longitude": -91.4306,
+        "start_date": "2022-05-27",
+        "end_date": null
+    },
+    "US-Ro1": {
+        "latitude": 44.7143,
+        "longitude": -93.0898,
+        "start_date": "2003-05-21",
+        "end_date": "2017-01-01"
+    },
+    "US-Ro2": {
+        "latitude": 44.7288,
+        "longitude": -93.0888,
+        "start_date": "2003-05-21",
+        "end_date": "2017-01-01"
+    },
+    "US-Ro3": {
+        "latitude": 44.7217,
+        "longitude": -93.0893,
+        "start_date": "2003-05-21",
+        "end_date": "2010-11-01"
+    },
+    "US-Ro4": {
+        "latitude": 44.6781,
+        "longitude": -93.0723,
+        "start_date": "2014-01-10",
+        "end_date": null
+    },
+    "US-Ro5": {
+        "latitude": 44.691,
+        "longitude": -93.0576,
+        "start_date": "2017-01-01",
+        "end_date": null
+    },
+    "US-Ro6": {
+        "latitude": 44.6946,
+        "longitude": -93.0578,
+        "start_date": "2017-01-01",
+        "end_date": null
+    },
+    "US-Snd": {
+        "latitude": 38.0366,
+        "longitude": -121.754,
+        "start_date": "2007-07-23",
+        "end_date": "2015-05-07"
+    },
+    "US-Sne": {
+        "latitude": 38.0369,
+        "longitude": -121.7547,
+        "start_date": "2016-05-24",
+        "end_date": "2021-09-02"
+    },
+    "US-Snf": {
+        "latitude": 38.0402,
+        "longitude": -121.7272,
+        "start_date": "2018-07-19",
+        "end_date": "2020-07-09"
+    },
+    "US-StJ": {
+        "latitude": 39.0882,
+        "longitude": -75.4372,
+        "start_date": "2015-01-21",
+        "end_date": null
+    },
+    "US-Tur": {
+        "latitude": 45.5571,
+        "longitude": -111.2286,
+        "start_date": "2017-11-14",
+        "end_date": "2018-02-14"
+    },
+    "US-Tw1": {
+        "latitude": 38.1074,
+        "longitude": -121.6469,
+        "start_date": "2012-07-12",
+        "end_date": "2023-01-02"
+    },
+    "US-Tw2": {
+        "latitude": 38.0969,
+        "longitude": -121.6365,
+        "start_date": "2012-05-22",
+        "end_date": "2013-05-25"
+    },
+    "US-Tw3": {
+        "latitude": 38.1152,
+        "longitude": -121.6469,
+        "start_date": "2013-01-01",
+        "end_date": "2018-06-05"
+    },
+    "US-Tw4": {
+        "latitude": 38.1027,
+        "longitude": -121.6413,
+        "start_date": "2013-01-01",
+        "end_date": null
+    },
+    "US-Tw5": {
+        "latitude": 38.1072,
+        "longitude": -121.6426,
+        "start_date": "2018-04-25",
+        "end_date": "2020-01-30"
+    },
+    "US-UC1": {
+        "latitude": 40.7536,
+        "longitude": -78.0056,
+        "start_date": "2019-05-15",
+        "end_date": null
+    },
+    "US-UC2": {
+        "latitude": 40.7559,
+        "longitude": -77.9998,
+        "start_date": "2019-05-24",
+        "end_date": null
+    },
+    "US-UiA": {
+        "latitude": 40.0646,
+        "longitude": -88.1961,
+        "start_date": "2008-06-13",
+        "end_date": "2016-06-14"
+    },
+    "US-UiB": {
+        "latitude": 40.0628,
+        "longitude": -88.1984,
+        "start_date": "2008-07-09",
+        "end_date": null
+    },
+    "US-UiC": {
+        "latitude": 40.0628,
+        "longitude": -88.1961,
+        "start_date": "2008-07-23",
+        "end_date": null
+    },
+    "US-UiD": {
+        "latitude": 40.0646,
+        "longitude": -88.1985,
+        "start_date": "2008-07-23",
+        "end_date": "2016-03-23"
+    },
+    "US-UTE": {
+        "latitude": 37.7353,
+        "longitude": -111.5708,
+        "start_date": "2024-06-19",
+        "end_date": null
+    },
+    "US-UTN": {
+        "latitude": 39.6896,
+        "longitude": -111.8814,
+        "start_date": "2022-01-01",
+        "end_date": null
+    },
+    "US-UTV": {
+        "latitude": 40.1266,
+        "longitude": -109.9546,
+        "start_date": "2023-09-27",
+        "end_date": null
+    },
+    "US-Wi6": {
+        "latitude": 46.6249,
+        "longitude": -91.2982,
+        "start_date": null,
+        "end_date": null
+    },
+    "US-WPT": {
+        "latitude": 41.4646,
+        "longitude": -82.9962,
+        "start_date": "2011-03-11",
+        "end_date": "2013-01-02"
+    },
+    "US-WT1": {
+        "latitude": 34.3674,
+        "longitude": -101.8154,
+        "start_date": "2023-07-01",
+        "end_date": null
+    },
+    "US-xDC": {
+        "latitude": 47.1617,
+        "longitude": -99.1066,
+        "start_date": "2017-09-06",
+        "end_date": null
+    },
+    "US-xWD": {
+        "latitude": 47.1282,
+        "longitude": -99.2414,
+        "start_date": "2017-09-20",
+        "end_date": null
+    }
+}

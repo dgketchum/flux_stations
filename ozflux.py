@@ -1,37 +1,47 @@
 import csv
+import json
 import os
 import re
 from urllib.parse import urlparse, urljoin
 
 import pandas as pd
 import requests
-from requests.exceptions import HTTPError, ChunkedEncodingError
 import xarray as xr
+from requests.exceptions import HTTPError, ChunkedEncodingError
 from thefuzz import process, fuzz
 
 
-def sites_marker_list():
-    """ Export from https://ameriflux.lbl.gov/sites/site-search/"""
+def sites_marker_list(metadata_file='ozflux_meta.json', sites_file='ozflux_sites.csv'):
+    """"""
     # ['network', 'lat', 'lon', 'country', 'sid', 'pi', 'desc']
 
-    _file = 'ozflux_sites.csv'
     datatable = []
-    with open(_file, mode='r', newline='', encoding='utf-8') as infile:
+
+    with open(metadata_file, 'r') as f:
+        metadata = json.load(f)
+    with open(sites_file, mode='r', newline='', encoding='utf-8') as infile:
         reader = csv.reader(infile)
         header = next(reader)
         for row in reader:
-            l = ['ozflux']
-            l += [float(row[4])]
-            l += [float(row[5])]
-            l += ['']
-            l += [row[1]]
-            l += [row[7]]
-            l += [row[2]]
-
-            assert len(l) == 7
-
+            site_id = row[1]
+            site_info = metadata.get(site_id, {})
+            latitude = site_info.get('latitude')
+            longitude = site_info.get('longitude')
+            start_date = site_info.get('start_date', '')
+            end_date = site_info.get('end_date', '')
+            l = [
+                'ozflux',
+                latitude,
+                longitude,
+                '',
+                row[1],
+                row[7],
+                row[2],
+                start_date,
+                end_date
+            ]
+            assert len(l) == 9
             datatable.append(l)
-
     return datatable
 
 
@@ -123,11 +133,45 @@ def download_latest_site_files(dest, records_csv, sites_csv, overwrite=False):
         print(f"Converted and saved: {nc_filename} -> {csv_filename}")
 
 
+def extract_ozflux_metadata(data_dir, output_file):
+    metadata = {}
+    for filename in os.listdir(data_dir):
+        if filename.endswith(".csv"):
+            print(filename)
+            site_id = filename.split('_')[0]
+            filepath = os.path.join(data_dir, filename)
+            try:
+                df = pd.read_csv(filepath)
+                if 'time' in df.columns and 'latitude' in df.columns and 'longitude' in df.columns:
+                    start_date = df['time'].iloc[0].split(' ')[0]
+                    end_date = df['time'].iloc[-1].split(' ')[0]
+                    latitude = df['latitude'].iloc[0]
+                    longitude = df['longitude'].iloc[0]
+                    metadata[site_id] = {
+                        'latitude': latitude,
+                        'longitude': longitude,
+                        'start_date': start_date,
+                        'end_date': end_date
+                    }
+            except Exception as e:
+                print(f"Error processing {filename}: {e}")
+
+    with open(output_file, 'w') as f:
+        json.dump(metadata, f, indent=4)
+
+
 if __name__ == '__main__':
     home = '/media/research'
+    if not os.path.isdir(home):
+        home = '/home/dgketchum/data'
+
     d = os.path.join(home, 'IrrigationGIS', 'climate')
     shp_ = os.path.join(d, 'flux_stations_18APR2025.shp')
     dst = os.path.join(d, 'ozflux')
-    download_latest_site_files(dst, records_csv='ozflux_catalog.csv', sites_csv='ozflux_sites.csv', overwrite=False)
+    # download_latest_site_files(dst, records_csv='ozflux_catalog.csv', sites_csv='ozflux_sites.csv', overwrite=False)
+
+    output_filename = 'ozflux_meta.json'
+    extract_ozflux_metadata(dst, output_filename)
+    print(f"Metadata written to {output_filename}")
 
 # ========================= EOF ============================================================================

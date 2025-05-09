@@ -1,9 +1,5 @@
 import requests
-import folium
-from folium.plugins import MarkerCluster
-import textile
 from bs4 import BeautifulSoup
-import helper_functions as h
 
 
 def sites_marker_list():

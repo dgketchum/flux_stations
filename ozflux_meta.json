@@ -1,0 +1,272 @@
+{
+    "Arcturus": {
+        "latitude": -23.85872,
+        "longitude": 148.4746,
+        "start_date": "2011-06-10",
+        "end_date": "2013-12-30"
+    },
+    "AU-Ade": {
+        "latitude": -13.0769,
+        "longitude": 131.1178,
+        "start_date": "2007-10-18",
+        "end_date": "2009-05-23"
+    },
+    "AU-APL": {
+        "latitude": -36.862222,
+        "longitude": 147.320833,
+        "start_date": "2017-04-13",
+        "end_date": "2022-06-19"
+    },
+    "AU-ASM": {
+        "latitude": -22.283,
+        "longitude": 133.249,
+        "start_date": "2010-09-03",
+        "end_date": "2025-01-27"
+    },
+    "AU-Boy": {
+        "latitude": -32.477093,
+        "longitude": 116.938559,
+        "start_date": "2017-10-21",
+        "end_date": "2025-02-01"
+    },
+    "AU-Cm1": {
+        "latitude": -33.620812,
+        "longitude": 150.763284,
+        "start_date": "2019-10-16",
+        "end_date": "2024-12-28"
+    },
+    "AU-Cm2": {
+        "latitude": -16.103219,
+        "longitude": 145.446922,
+        "start_date": "2010-01-01",
+        "end_date": "2018-11-01"
+    },
+    "AU-Col": {
+        "latitude": -33.42,
+        "longitude": 116.237,
+        "start_date": "2017-08-04",
+        "end_date": "2019-11-10"
+    },
+    "AU-Cow": {
+        "latitude": -16.238189,
+        "longitude": 145.42715,
+        "start_date": "2009-01-02",
+        "end_date": "2025-02-01"
+    },
+    "AU-Cpr": {
+        "latitude": -34.0027,
+        "longitude": 140.5877,
+        "start_date": "2010-07-31",
+        "end_date": "2025-02-01"
+    },
+    "AU-Ctr": {
+        "latitude": -16.103219,
+        "longitude": 145.446922,
+        "start_date": "2010-01-01",
+        "end_date": "2018-11-01"
+    },
+    "AU-Cum": {
+        "latitude": -33.615278,
+        "longitude": 150.723611,
+        "start_date": "2014-01-01",
+        "end_date": "2024-12-31"
+    },
+    "AU-DaS": {
+        "latitude": -14.1592,
+        "longitude": 131.3881,
+        "start_date": "2008-01-01",
+        "end_date": "2024-07-26"
+    },
+    "AU-Drg": {
+        "latitude": -36.6732,
+        "longitude": 145.0294,
+        "start_date": "2011-12-02",
+        "end_date": "2021-12-30"
+    },
+    "AU-Dry": {
+        "latitude": -15.2588,
+        "longitude": 132.3706,
+        "start_date": "2009-10-26",
+        "end_date": "2025-02-01"
+    },
+    "Au-Fle": {
+        "latitude": -19.887285,
+        "longitude": 146.189138,
+        "start_date": "2022-01-23",
+        "end_date": "2025-01-16"
+    },
+    "AU-Fog": {
+        "latitude": -12.5452,
+        "longitude": 131.3072,
+        "start_date": "2006-02-07",
+        "end_date": "2008-10-30"
+    },
+    "AU-Gin": {
+        "latitude": -31.376351,
+        "longitude": 115.71377,
+        "start_date": "2011-10-14",
+        "end_date": "2024-12-30"
+    },
+    "AU-GWW": {
+        "latitude": -30.1914,
+        "longitude": 120.65416666666668,
+        "start_date": "2013-01-02",
+        "end_date": "2024-07-26"
+    },
+    "AU-How": {
+        "latitude": -12.4952,
+        "longitude": 131.15005,
+        "start_date": "2002-01-01",
+        "end_date": "2024-07-26"
+    },
+    "AU-Lit": {
+        "latitude": -13.17904178,
+        "longitude": 130.7945459,
+        "start_date": "2015-06-24",
+        "end_date": "2025-01-16"
+    },
+    "AU-Nim": {
+        "latitude": -14.563639,
+        "longitude": 132.477567,
+        "start_date": "2011-09-24",
+        "end_date": "2013-07-20"
+    },
+    "AU-Otw": {
+        "latitude": -38.525,
+        "longitude": 142.81,
+        "start_date": "2007-08-11",
+        "end_date": "2010-12-31"
+    },
+    "AU-Rgf": {
+        "latitude": -32.506102,
+        "longitude": 116.966827,
+        "start_date": "2015-03-30",
+        "end_date": "2025-02-01"
+    },
+    "AU-Rig": {
+        "latitude": -36.656,
+        "longitude": 145.576,
+        "start_date": "2011-01-01",
+        "end_date": "2017-07-11"
+    },
+    "AU-Rob": {
+        "latitude": -17.11746943,
+        "longitude": 145.6301375,
+        "start_date": "2013-08-02",
+        "end_date": "2025-02-01"
+    },
+    "AU-Sam": {
+        "latitude": -27.38806,
+        "longitude": 152.87778,
+        "start_date": "2010-06-03",
+        "end_date": "2017-12-30"
+    },
+    "AU-Sil": {
+        "latitude": -42.090556,
+        "longitude": 147.0875,
+        "start_date": "2019-12-06",
+        "end_date": "2024-12-30"
+    },
+    "AU-Stp": {
+        "latitude": -17.1507,
+        "longitude": 133.3502,
+        "start_date": "2008-08-29",
+        "end_date": "2024-07-26"
+    },
+    "AU-TTE": {
+        "latitude": -22.283,
+        "longitude": 133.249,
+        "start_date": "2012-07-18",
+        "end_date": "2022-01-16"
+    },
+    "AU-Tum": {
+        "latitude": -35.6566,
+        "longitude": 148.1516,
+        "start_date": "2002-01-08",
+        "end_date": "2022-12-02"
+    },
+    "AU-Vir": {
+        "latitude": -31.376351,
+        "longitude": 115.71377,
+        "start_date": "2011-10-14",
+        "end_date": "2024-12-30"
+    },
+    "AU-Wac": {
+        "latitude": -37.4259,
+        "longitude": 145.1878,
+        "start_date": "2005-08-26",
+        "end_date": "2008-12-30"
+    },
+    "AU-Whr": {
+        "latitude": -36.6732,
+        "longitude": 145.0294,
+        "start_date": "2011-12-02",
+        "end_date": "2023-12-30"
+    },
+    "AU-Wom": {
+        "latitude": -37.422506,
+        "longitude": 144.094046,
+        "start_date": "2010-01-21",
+        "end_date": "2021-05-28"
+    },
+    "AU-Wrr": {
+        "latitude": -43.09502,
+        "longitude": 146.65452,
+        "start_date": "2013-03-06",
+        "end_date": "2021-09-20"
+    },
+    "AU-Ync": {
+        "latitude": -34.9878,
+        "longitude": 146.2908,
+        "start_date": "2013-01-02",
+        "end_date": "2024-07-22"
+    },
+    "DaP": {
+        "latitude": -14.0633,
+        "longitude": 131.3181,
+        "start_date": "2008-01-01",
+        "end_date": "2013-09-07"
+    },
+    "FrenchIsland": {
+        "latitude": -14.1592,
+        "longitude": 131.3881,
+        "start_date": "2008-01-01",
+        "end_date": "2024-07-26"
+    },
+    "GatumPasture": {
+        "latitude": -37.390033,
+        "longitude": 141.960897,
+        "start_date": "2015-02-09",
+        "end_date": "2021-12-30"
+    },
+    "NZ-BFm": {
+        "latitude": -16.238189,
+        "longitude": 145.42715,
+        "start_date": "2009-01-02",
+        "end_date": "2023-07-25"
+    },
+    "NZ-Kop": {
+        "latitude": -16.103219,
+        "longitude": 145.446922,
+        "start_date": "2010-01-01",
+        "end_date": "2018-11-01"
+    },
+    "NZ-Oxf": {
+        "latitude": -34.47035,
+        "longitude": 140.65512,
+        "start_date": "2008-08-20",
+        "end_date": "2009-06-08"
+    },
+    "NZ-Sco": {
+        "latitude": -17.1507,
+        "longitude": 133.3502,
+        "start_date": "2008-08-29",
+        "end_date": "2024-07-26"
+    },
+    "Yarramundi": {
+        "latitude": -33.613469,
+        "longitude": 150.734864,
+        "start_date": "2019-10-23",
+        "end_date": "2024-12-31"
+    }
+}

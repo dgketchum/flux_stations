@@ -1,0 +1,454 @@
+{
+    "AT-Neu": {
+        "start_date": "2002-01-01",
+        "end_date": "2020-12-31"
+    },
+    "BE-Bra": {
+        "start_date": "1996-01-01",
+        "end_date": "2020-12-31"
+    },
+    "BE-Dor": {
+        "start_date": "2011-01-01",
+        "end_date": "2020-12-31"
+    },
+    "BE-Lcr": {
+        "start_date": "2019-01-01",
+        "end_date": "2022-12-31"
+    },
+    "BE-Lon": {
+        "start_date": "2004-01-01",
+        "end_date": "2020-12-31"
+    },
+    "BE-Maa": {
+        "start_date": "2016-01-01",
+        "end_date": "2020-12-31"
+    },
+    "BE-Vie": {
+        "start_date": "1996-01-01",
+        "end_date": "2020-12-31"
+    },
+    "CD-Ygb": {
+        "start_date": "2020-01-01",
+        "end_date": "2023-12-31"
+    },
+    "CH-Aws": {
+        "start_date": "2006-01-01",
+        "end_date": "2023-12-31"
+    },
+    "CH-Cha": {
+        "start_date": "2005-01-01",
+        "end_date": "2023-12-31"
+    },
+    "CH-Dav": {
+        "start_date": "1997-01-01",
+        "end_date": "2020-12-31"
+    },
+    "CH-Frk": {
+        "start_date": "2013-01-01",
+        "end_date": "2014-12-31"
+    },
+    "CH-Fru": {
+        "start_date": "2005-01-01",
+        "end_date": "2023-12-31"
+    },
+    "CH-Lae": {
+        "start_date": "2004-01-01",
+        "end_date": "2023-12-31"
+    },
+    "CH-Oe2": {
+        "start_date": "2004-01-01",
+        "end_date": "2023-12-31"
+    },
+    "CZ-BK1": {
+        "start_date": "2004-01-01",
+        "end_date": "2022-12-31"
+    },
+    "CZ-KrP": {
+        "start_date": "2014-01-01",
+        "end_date": "2020-12-31"
+    },
+    "CZ-Lnz": {
+        "start_date": "2015-01-01",
+        "end_date": "2020-12-31"
+    },
+    "CZ-RAJ": {
+        "start_date": "2012-01-01",
+        "end_date": "2022-12-31"
+    },
+    "CZ-Stn": {
+        "start_date": "2010-01-01",
+        "end_date": "2022-12-31"
+    },
+    "CZ-wet": {
+        "start_date": "2006-01-01",
+        "end_date": "2023-12-31"
+    },
+    "DE-Akm": {
+        "start_date": "2009-01-01",
+        "end_date": "2023-12-31"
+    },
+    "DE-Dgw": {
+        "start_date": "2015-01-01",
+        "end_date": "2018-12-31"
+    },
+    "DE-Geb": {
+        "start_date": "2001-01-01",
+        "end_date": "2020-12-31"
+    },
+    "DE-Gri": {
+        "start_date": "2017-01-01",
+        "end_date": "2023-12-31"
+    },
+    "DE-Hai": {
+        "start_date": "2000-01-01",
+        "end_date": "2023-12-31"
+    },
+    "DE-Har": {
+        "start_date": "2020-01-01",
+        "end_date": "2023-12-31"
+    },
+    "DE-Hdn": {
+        "start_date": "2020-01-01",
+        "end_date": "2023-12-31"
+    },
+    "DE-HoH": {
+        "start_date": "2015-01-01",
+        "end_date": "2020-12-31"
+    },
+    "DE-Hte": {
+        "start_date": "2009-01-01",
+        "end_date": "2018-12-31"
+    },
+    "DE-Hzd": {
+        "start_date": "2010-01-01",
+        "end_date": "2023-12-31"
+    },
+    "DE-Kli": {
+        "start_date": "2018-01-01",
+        "end_date": "2023-12-31"
+    },
+    "DE-Msr": {
+        "start_date": "2020-01-01",
+        "end_date": "2023-12-31"
+    },
+    "DE-Obe": {
+        "start_date": "2008-01-01",
+        "end_date": "2023-12-31"
+    },
+    "DE-Rns": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31"
+    },
+    "DE-RuC": {
+        "start_date": "2013-01-01",
+        "end_date": "2023-12-31"
+    },
+    "DE-RuR": {
+        "start_date": "2011-01-01",
+        "end_date": "2023-12-31"
+    },
+    "DE-RuS": {
+        "start_date": "2011-01-01",
+        "end_date": "2023-12-31"
+    },
+    "DE-RuW": {
+        "start_date": "2012-01-01",
+        "end_date": "2023-12-31"
+    },
+    "DE-SfN": {
+        "start_date": "2012-01-01",
+        "end_date": "2014-12-31"
+    },
+    "DE-SfS": {
+        "start_date": "2010-01-01",
+        "end_date": "2020-12-31"
+    },
+    "DE-Tha": {
+        "start_date": "1996-01-01",
+        "end_date": "2020-12-31"
+    },
+    "DK-Gds": {
+        "start_date": "2020-01-01",
+        "end_date": "2020-12-31"
+    },
+    "DK-Skj": {
+        "start_date": "2020-01-01",
+        "end_date": "2022-12-31"
+    },
+    "DK-Sor": {
+        "start_date": "1996-01-01",
+        "end_date": "2020-12-31"
+    },
+    "DK-Vng": {
+        "start_date": "2009-01-01",
+        "end_date": "2018-12-31"
+    },
+    "EE-Pts": {
+        "start_date": "2022-01-01",
+        "end_date": "2023-12-31"
+    },
+    "ES-Abr": {
+        "start_date": "2015-01-01",
+        "end_date": "2020-12-31"
+    },
+    "ES-Agu": {
+        "start_date": "2006-01-01",
+        "end_date": "2020-12-31"
+    },
+    "ES-Cnd": {
+        "start_date": "2014-01-01",
+        "end_date": "2020-12-31"
+    },
+    "ES-LJu": {
+        "start_date": "2004-01-01",
+        "end_date": "2020-12-31"
+    },
+    "ES-LM1": {
+        "start_date": "2014-01-01",
+        "end_date": "2020-12-31"
+    },
+    "ES-LM2": {
+        "start_date": "2014-01-01",
+        "end_date": "2020-12-31"
+    },
+    "ES-LMa": {
+        "start_date": "2020-01-01",
+        "end_date": "2023-12-31"
+    },
+    "ES-Pdu": {
+        "start_date": "2014-01-01",
+        "end_date": "2017-12-31"
+    },
+    "FI-Hyy": {
+        "start_date": null,
+        "end_date": null
+    },
+    "FI-Ken": {
+        "start_date": null,
+        "end_date": null
+    },
+    "FI-Let": {
+        "start_date": "2017-01-01",
+        "end_date": "2023-12-31"
+    },
+    "FI-Qvd": {
+        "start_date": "2018-01-01",
+        "end_date": "2020-12-31"
+    },
+    "FI-Sii": {
+        "start_date": "2016-01-01",
+        "end_date": "2020-12-31"
+    },
+    "FI-Var": {
+        "start_date": "2017-01-01",
+        "end_date": "2023-12-31"
+    },
+    "FR-Aur": {
+        "start_date": "2005-01-01",
+        "end_date": "2023-12-31"
+    },
+    "FR-Bil": {
+        "start_date": "2014-01-01",
+        "end_date": "2020-12-31"
+    },
+    "FR-CLt": {
+        "start_date": "2022-01-01",
+        "end_date": "2023-12-31"
+    },
+    "FR-EM2": {
+        "start_date": "2017-01-01",
+        "end_date": "2023-12-31"
+    },
+    "FR-FBn": {
+        "start_date": "2008-01-01",
+        "end_date": "2020-12-31"
+    },
+    "FR-Fon": {
+        "start_date": "2005-01-01",
+        "end_date": "2020-12-31"
+    },
+    "FR-Gri": {
+        "start_date": "2004-01-01",
+        "end_date": "2023-12-31"
+    },
+    "FR-Hes": {
+        "start_date": "2014-01-01",
+        "end_date": "2020-12-31"
+    },
+    "FR-Lam": {
+        "start_date": "2005-01-01",
+        "end_date": "2020-12-31"
+    },
+    "FR-LGt": {
+        "start_date": "2017-01-01",
+        "end_date": "2022-12-31"
+    },
+    "FR-Mej": {
+        "start_date": "2019-01-01",
+        "end_date": "2023-12-31"
+    },
+    "FR-Pue": {
+        "start_date": "2000-01-01",
+        "end_date": "2021-12-31"
+    },
+    "FR-Tou": {
+        "start_date": "2018-01-01",
+        "end_date": "2023-12-31"
+    },
+    "GF-Guy": {
+        "start_date": "2004-01-01",
+        "end_date": "2023-12-31"
+    },
+    "GL-Dsk": {
+        "start_date": "2020-01-01",
+        "end_date": "2023-12-31"
+    },
+    "GL-NuF": {
+        "start_date": "2019-01-01",
+        "end_date": "2023-12-31"
+    },
+    "GL-ZaH": {
+        "start_date": "2020-01-01",
+        "end_date": "2023-12-31"
+    },
+    "IE-CaC": {
+        "start_date": "2003-01-01",
+        "end_date": "2008-12-31"
+    },
+    "IE-CaN": {
+        "start_date": "2003-01-01",
+        "end_date": "2007-12-31"
+    },
+    "IE-Cra": {
+        "start_date": "2020-01-01",
+        "end_date": "2020-12-31"
+    },
+    "IE-Gwr": {
+        "start_date": "2016-01-01",
+        "end_date": "2016-12-31"
+    },
+    "IL-Yat": {
+        "start_date": "2000-01-01",
+        "end_date": "2020-12-31"
+    },
+    "IT-BCi": {
+        "start_date": "2004-01-01",
+        "end_date": "2020-12-31"
+    },
+    "IT-BFt": {
+        "start_date": "2019-01-01",
+        "end_date": "2023-12-31"
+    },
+    "IT-BsB": {
+        "start_date": "2021-01-01",
+        "end_date": "2022-12-31"
+    },
+    "IT-Bsn": {
+        "start_date": "2020-01-01",
+        "end_date": "2021-12-31"
+    },
+    "IT-Cp2": {
+        "start_date": "2012-01-01",
+        "end_date": "2020-12-31"
+    },
+    "IT-Lav": {
+        "start_date": "2003-01-01",
+        "end_date": "2020-12-31"
+    },
+    "IT-Lsn": {
+        "start_date": "2016-01-01",
+        "end_date": "2023-12-31"
+    },
+    "IT-MBo": {
+        "start_date": "2003-01-01",
+        "end_date": "2020-12-31"
+    },
+    "IT-MtM": {
+        "start_date": "2014-01-01",
+        "end_date": "2019-12-31"
+    },
+    "IT-MtP": {
+        "start_date": "2014-01-01",
+        "end_date": "2019-12-31"
+    },
+    "IT-Niv": {
+        "start_date": "2019-01-01",
+        "end_date": "2023-12-31"
+    },
+    "IT-Noe": {
+        "start_date": "2004-01-01",
+        "end_date": "2023-12-31"
+    },
+    "IT-Ren": {
+        "start_date": "1999-01-01",
+        "end_date": "2020-12-31"
+    },
+    "IT-SR2": {
+        "start_date": "2013-01-01",
+        "end_date": "2020-12-31"
+    },
+    "IT-Tor": {
+        "start_date": "2016-01-01",
+        "end_date": "2023-12-31"
+    },
+    "IT-TrF": {
+        "start_date": "2012-01-01",
+        "end_date": "2022-12-31"
+    },
+    "JP-BBY": {
+        "start_date": "2014-01-01",
+        "end_date": "2020-12-31"
+    },
+    "JP-Ozm": {
+        "start_date": "2015-01-01",
+        "end_date": "2016-12-31"
+    },
+    "NL-Loo": {
+        "start_date": "1996-01-01",
+        "end_date": "2018-12-31"
+    },
+    "RU-Fy2": {
+        "start_date": "2015-01-01",
+        "end_date": "2023-12-31"
+    },
+    "RU-Fy3": {
+        "start_date": "2016-01-01",
+        "end_date": "2017-12-31"
+    },
+    "RU-Fyo": {
+        "start_date": "1998-01-01",
+        "end_date": "2023-12-31"
+    },
+    "SE-Deg": {
+        "start_date": "2001-01-01",
+        "end_date": "2020-12-31"
+    },
+    "SE-Htm": {
+        "start_date": "2015-01-01",
+        "end_date": "2020-12-31"
+    },
+    "SE-Lnn": {
+        "start_date": "2014-01-01",
+        "end_date": "2018-12-31"
+    },
+    "SE-Nor": {
+        "start_date": "2014-01-01",
+        "end_date": "2020-12-31"
+    },
+    "SE-Ros": {
+        "start_date": "2014-01-01",
+        "end_date": "2020-12-31"
+    },
+    "SE-St1": {
+        "start_date": "2012-01-01",
+        "end_date": "2019-12-31"
+    },
+    "SE-Svb": {
+        "start_date": "2014-01-01",
+        "end_date": "2020-12-31"
+    },
+    "UK-AMo": {
+        "start_date": "2003-01-01",
+        "end_date": "2020-12-31"
+    }
+}
